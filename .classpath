@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-gherkin-5.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-java-1.2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-java-1.2.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-java-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/github-api-1.95.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/jira-rest-plugin-9.0.0-QR-20211011114823.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/log4j-core-2.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/org.eclipse.egit.github.core-2.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/libs/testng-6.14.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
